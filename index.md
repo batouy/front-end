@@ -23,4 +23,6 @@
 
 12.前端模块管理器：[http://www.ruanyifeng.com/blog/2014/09/package-management.html](http://www.ruanyifeng.com/blog/2014/09/package-management.html)；
 
-13.AMD/CMD:[http://blog.chinaunix.net/uid-26672038-id-4112229.html](http://blog.chinaunix.net/uid-26672038-id-4112229.html)
+13.AMD/CMD:[http://blog.chinaunix.net/uid-26672038-id-4112229.html](http://blog.chinaunix.net/uid-26672038-id-4112229.html);
+
+14.webpack-howto:[https://github.com/petehunt/webpack-howto/](https://github.com/petehunt/webpack-howto/)

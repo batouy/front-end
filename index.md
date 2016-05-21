@@ -26,3 +26,5 @@
 13.AMD/CMD:[http://blog.chinaunix.net/uid-26672038-id-4112229.html](http://blog.chinaunix.net/uid-26672038-id-4112229.html);
 
 14.webpack-howto:[https://github.com/petehunt/webpack-howto/](https://github.com/petehunt/webpack-howto/)
+
+15.babel:官网头部的宣传语是：(现在就能使用下一代Javascript)Use next generation JavaScript, today.一个可以将ES 6最新语法以及JSX语法转换为浏览器端或Node端能直接运行的代码的编译器(或者叫转换器)；
